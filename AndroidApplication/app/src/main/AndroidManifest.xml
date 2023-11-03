@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"></uses-permission>
+
+    <application
+        android:name=".global_var"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Multitab_app"
+        tools:targetApi="31">
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true"></service>
+
+        <activity
+            android:name=".register_wifi"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".using_environment"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".power_list"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".onoff_control"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".power_log"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".LoginLoadingActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Design.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Register" />
+    </application>
+
+</manifest>
