@@ -5,8 +5,8 @@
 # 요약
 
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/98fb47ac-a540-40ad-b958-3399e2fdc60b" width="800" height="500"/>
-<img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/b61212f8-deaa-4f5b-bc11-e4c73590523b" width="230" height="400"/>
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/163b7bd0-cd70-4a64-8226-23cddd891fdf" width="230" height="400"/>
+<img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/b61212f8-deaa-4f5b-bc11-e4c73590523b" width="230" height="400"/>
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/8db13c31-db60-4f9f-b738-479865046d40" width="230" height="400"/>
 
 1. 전자기기 사용 시 화재의 원인이 되는 온도, 습도, 먼지 농도를 멀티탭에서 자체적으로 측정해 사용자에게 알림을 줍니다.
