@@ -2,19 +2,7 @@
 
 오래 된 멀티탭, 허용 용량 초과, 습도 높은 환경 및 먼지로 인한 멀티탭 화재 사고가 끊이지 않고 발생하고 있습니다. 본 프로젝트에서는 화재 원인들을 감지하고, 사용자에게 알림을 보내는 멀티탭 시스템을 개발하였습니다.
 
-# 소스
 
-### 안드로이드 어플리케이션
-
-[](https://github.com/songpink/Safe-Multitap-System/tree/master/AndroidApplication)
-
-### 서버
-
-[](https://github.com/songpink/Safe-Multitap-System/tree/master/c_server)
-
-### 마이크로 컨트롤러
-
-[](https://github.com/songpink/Safe-Multitap-System/tree/master/stm32_source)
 
 # 요약
 
