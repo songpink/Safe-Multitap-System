@@ -6,7 +6,8 @@
 
 # 요약
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0ebfd49-c991-4e27-b317-84a47cac33a6/af4d198b-e595-40f5-b51b-70bbeba457fc/Untitled.png)
+![image](https://github.com/songpink/Safe-Multitap-System/assets/138569524/98fb47ac-a540-40ad-b958-3399e2fdc60b)
+
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0ebfd49-c991-4e27-b317-84a47cac33a6/37469a94-289a-430b-93ff-29305c78343c/Untitled.jpeg)
 
