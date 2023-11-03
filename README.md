@@ -7,13 +7,11 @@
 # 요약
 
 ![image](https://github.com/songpink/Safe-Multitap-System/assets/138569524/98fb47ac-a540-40ad-b958-3399e2fdc60b)
+![image](https://github.com/songpink/Safe-Multitap-System/assets/138569524/b61212f8-deaa-4f5b-bc11-e4c73590523b)
+![image](https://github.com/songpink/Safe-Multitap-System/assets/138569524/163b7bd0-cd70-4a64-8226-23cddd891fdf)
+![image](https://github.com/songpink/Safe-Multitap-System/assets/138569524/8db13c31-db60-4f9f-b738-479865046d40)
 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0ebfd49-c991-4e27-b317-84a47cac33a6/37469a94-289a-430b-93ff-29305c78343c/Untitled.jpeg)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0ebfd49-c991-4e27-b317-84a47cac33a6/0a30a14c-7f8c-4de2-a0a5-e32c4e68b2fb/Untitled.jpeg)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a0ebfd49-c991-4e27-b317-84a47cac33a6/1385880f-5e78-4f85-a31a-69b493294e2c/Untitled.jpeg)
 
 1. 전자기기 사용 시 화재의 원인이 되는 온도, 습도, 먼지 농도를 멀티탭에서 자체적으로 측정해 사용자에게 알림을 줍니다.
 2. 스마트폰을 통해 원격으로 멀티탭 전원의 ON/OFF를 제어합니다.
