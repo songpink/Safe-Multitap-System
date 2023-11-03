@@ -2,16 +2,12 @@
 
 오래 된 멀티탭, 허용 용량 초과, 습도 높은 환경 및 먼지로 인한 멀티탭 화재 사고가 끊이지 않고 발생하고 있습니다. 본 프로젝트에서는 화재 원인들을 감지하고, 사용자에게 알림을 보내는 멀티탭 시스템을 개발하였습니다.
 
-
-
 # 요약
 
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/98fb47ac-a540-40ad-b958-3399e2fdc60b" width="800" height="500"/>
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/b61212f8-deaa-4f5b-bc11-e4c73590523b" width="230" height="400"/>
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/163b7bd0-cd70-4a64-8226-23cddd891fdf" width="230" height="400"/>
 <img src="https://github.com/songpink/Safe-Multitap-System/assets/138569524/8db13c31-db60-4f9f-b738-479865046d40" width="230" height="400"/>
-
-
 
 1. 전자기기 사용 시 화재의 원인이 되는 온도, 습도, 먼지 농도를 멀티탭에서 자체적으로 측정해 사용자에게 알림을 줍니다.
 2. 스마트폰을 통해 원격으로 멀티탭 전원의 ON/OFF를 제어합니다.
